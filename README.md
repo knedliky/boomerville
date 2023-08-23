@@ -1,2 +1,2 @@
-# boomerville
-Australian House Prices Project
+# Boomerville
+## An Australian House Prices Project
