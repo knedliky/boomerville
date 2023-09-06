@@ -1,4 +1,18 @@
+# Python related files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# MacOS related files
+*.DS_Store
+
+# Environment related files
+.env
+
+# Data files
+data/*
+
+# Pipenv related files
 Pipfile
 Pipfile.lock
-.DS_Store
-data/*

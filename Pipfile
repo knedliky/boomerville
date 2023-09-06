@@ -9,6 +9,7 @@ ipykernel = "*"
 requests = "*"
 lxml = "*"
 pandasdmx = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
