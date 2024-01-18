@@ -9,6 +9,7 @@ __pycache__/
 
 # Environment related files
 .env
+venv/
 
 # Data files
 data/*
@@ -16,3 +17,15 @@ data/*
 # Pipenv related files
 Pipfile
 Pipfile.lock
+
+# Jupyter notebook related files
+.ipynb_checkpoints
+
+# Logs and temporary files
+logs/
+temp/
+*.log
+
+# Miscellaneous
+*.bak
+*.old
